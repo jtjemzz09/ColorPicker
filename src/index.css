@@ -37,6 +37,10 @@ body {
   justify-content: space-evenly;
 }
 
+#colors-list {
+  display: flex;
+}
+
 #colors-list div {
   height: 100px;
   width: 100px;
