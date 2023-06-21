@@ -1,5 +1,6 @@
 import { useState } from 'react';
 
+
 // Write your Color component here
 const Color = ({ color, selectedColor, setSelectedColor }) => {
   const handleClick = () => {
